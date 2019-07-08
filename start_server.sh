@@ -1,0 +1,1 @@
+parse-server --appId ALEX_APP --masterKey ALEX_MASTER --databaseURI mongodb://localhost/test_db

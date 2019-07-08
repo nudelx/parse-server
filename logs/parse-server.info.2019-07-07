@@ -1,0 +1,26 @@
+{"message":"Parse error: Object not found.","code":101,"level":"error","stack":"Error: Object not found.\n    at _rest.default.get.then.response (/Users/nudelx/.config/yarn/global/node_modules/parse-server/lib/Routers/ClassesRouter.js:82:15)\n    at <anonymous>\n    at process._tickDomainCallback (internal/process/next_tick.js:229:7)","timestamp":"2019-07-07T11:15:18.320Z"}
+{"level":"info","message":"Create new client: 749f0472-99cd-46f5-b0ae-4e0147a28861","timestamp":"2019-07-07T14:03:44.337Z"}
+{"level":"info","message":"Create new client: 05da9b76-d59e-45dc-939f-0c914039b7c7","timestamp":"2019-07-07T14:03:44.338Z"}
+{"level":"info","message":"Create new client: e488b054-1736-42f5-b935-b97a67cd42f9","timestamp":"2019-07-07T14:04:50.363Z"}
+{"level":"info","message":"Create new client: e0ccbbd9-1d4f-4275-bf43-8fcd988cbc9d","timestamp":"2019-07-07T14:04:50.365Z"}
+{"level":"info","message":"Create new client: 8bf7a420-c610-470a-aa6e-8fdafbdeea46","timestamp":"2019-07-07T14:05:57.703Z"}
+{"level":"info","message":"Create new client: 93362082-344c-41ff-9dbc-2dc1198ea1b8","timestamp":"2019-07-07T14:05:57.704Z"}
+{"level":"info","message":"Create new client: a5b4855c-3d6e-4643-945a-a3ac3d66a02a","timestamp":"2019-07-07T14:08:11.098Z"}
+{"level":"info","message":"Create new client: fb14cad6-29b3-4b1e-a1c3-5e6ff328ed54","timestamp":"2019-07-07T14:08:11.099Z"}
+{"level":"info","message":"Create new client: cdca89fa-f675-41d8-bcbe-26944b4f830d","timestamp":"2019-07-07T14:09:04.525Z"}
+{"level":"info","message":"Create new client: 14890f02-84de-4592-ba91-443626332eef","timestamp":"2019-07-07T14:09:04.526Z"}
+{"level":"info","message":"Create new client: 66e6dfc9-92c6-4246-981b-30b8e43f8296","timestamp":"2019-07-07T14:09:53.745Z"}
+{"level":"info","message":"Create new client: 43f8d1ae-58a5-496f-8c06-2e41393f5f0d","timestamp":"2019-07-07T14:09:53.746Z"}
+{"level":"info","message":"Create new client: db6f8cec-2bac-4d4e-8ec4-8bb142218941","timestamp":"2019-07-07T14:10:32.741Z"}
+{"level":"info","message":"Create new client: bcd333e5-0f6f-4b50-a066-ddd1dece5bf2","timestamp":"2019-07-07T14:10:49.413Z"}
+{"level":"info","message":"Create new client: fd7b5d42-a5a8-4357-b1c8-fee5d2a2a3a5","timestamp":"2019-07-07T14:11:16.824Z"}
+{"level":"info","message":"Create new client: 1a568d20-7475-43ae-b328-2711fb5c6d78","timestamp":"2019-07-07T14:13:50.453Z"}
+{"level":"info","message":"Create new client: ba059387-f5fb-4a7d-97bc-8c45c90914da","timestamp":"2019-07-07T14:14:22.745Z"}
+{"level":"info","message":"Create new client: ebdafbcf-2bc0-4edc-ad35-7bdea158b496","timestamp":"2019-07-07T14:14:41.869Z"}
+{"level":"info","message":"Create new client: 2c58c006-7d32-4d2b-a49a-99500bd8397d","timestamp":"2019-07-07T14:14:57.234Z"}
+{"level":"info","message":"Create new client: 5075f9d8-597b-46f6-9265-5e4a9b2affcf","timestamp":"2019-07-07T14:15:54.256Z"}
+{"level":"info","message":"Create new client: bf66bf38-c8ae-4464-9c9c-aa993bbdcfb8","timestamp":"2019-07-07T14:17:10.783Z"}
+{"level":"info","message":"Create new client: 81695b25-c504-4521-b853-5297a0355fd2","timestamp":"2019-07-07T14:26:11.841Z"}
+{"level":"info","message":"Create new client: 9de5f5b1-9b49-43bb-a600-f9f3d432eeba","timestamp":"2019-07-07T14:26:26.546Z"}
+{"level":"info","message":"Create new client: bf4c3e37-f950-41f8-a0a9-23d219322a37","timestamp":"2019-07-07T14:39:00.518Z"}
+{"message":"Parse error: Object not found.","code":101,"level":"error","stack":"Error: Object not found.\n    at _rest.default.get.then.response (/Users/nudelx/dev/parse/node_modules/parse-server/lib/Routers/ClassesRouter.js:82:15)\n    at <anonymous>\n    at process._tickDomainCallback (internal/process/next_tick.js:229:7)","timestamp":"2019-07-07T14:39:19.344Z"}
